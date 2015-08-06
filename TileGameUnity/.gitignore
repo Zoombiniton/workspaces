@@ -1,3 +1,5 @@
 ### gitIgnore####
 **/Library
 *.meta
+TileGameUnity/ProjectSettings/ProjectVersion.txt
+**/Temp
